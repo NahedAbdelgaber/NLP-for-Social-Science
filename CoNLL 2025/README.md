@@ -19,6 +19,22 @@ This folder contains materials related to our accepted CoNLL 2025 paper:
 
 ---
 
+## License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
+
+You are free to:
+
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material  
+**As long as you follow these terms**:
+
+- **Attribution** — You must give appropriate credit (e.g., cite the paper), provide a link to the license, and indicate if changes were made.
+- **NonCommercial** — You may not use the material for commercial purposes.
+
+🔗 Full license text: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+
+---
 ## 🔖 Citation
 
 If you use or reference this work, please cite the following:
