@@ -11,6 +11,7 @@ This folder contains materials related to our accepted CoNLL 2025 paper:
 ## 📄 Contents
 
 - `slides/` — Presentation slides for the conference
+- `data/` — data collected
 - `poster/` — Conference poster (PDF and source)
 - `paper.pdf` — Camera-ready version of the paper
 - `supplementary/` — Any additional analysis or resources
